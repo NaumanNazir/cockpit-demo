@@ -1,0 +1,32 @@
+.sidebar-fixed {
+  left: 0;
+  height: 100vh;
+  width: 200px;
+  padding: 1rem;
+  padding-top: 0; 
+}
+
+.sidebar-fixed .title {
+  font-size: 1.2em;
+  color: #fff;
+  border-bottom: 1px solid grey;
+  padding: 1.4rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.sidebar-fixed .ml-3 {
+  margin-right: 0.6rem;
+}
+
+.list-group-item {
+  background-color: #2e2e2e;
+  color: #fff;
+  font-size: 1em;
+  padding: 0.4rem;
+}
+
+.list-group-item:hover {
+  background-color: rgb(77, 77, 77);
+  color: #fff;
+}
+
